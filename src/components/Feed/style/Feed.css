@@ -1,0 +1,53 @@
+.ant-card.ant-card-bordered.feed-card {
+    margin: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px 0px #b3abab;
+}
+.ant-row {
+    margin-left: 8px !important;
+    margin-right: 8px !important;
+}
+.card-text-head {
+
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+}
+span.card-sub-text-head {
+    font-size: 12px;
+    font-weight: bold;
+    color: slategrey;
+    letter-spacing: 0.5px;
+}
+
+.ant-col.ant-col-12.feed-card-col {
+    min-height: 100vh;
+    background: grey;
+}
+span.anticon.anticon-more {
+    float: right;
+    font-size: 20px;
+    cursor: pointer;
+}
+.user-profile {
+    padding-left: 10px;
+}
+.text-center{
+    text-align: center;
+}
+.feed-footer-icon{
+    padding-top:15px ;
+}
+span.anticon.feed-footer-icon.anticon {
+    font-size: 25px;
+}
+.feed-avatar {
+    background: black;
+    font-size: 20px;
+    font-family: monospace;
+}
+.status-avatar:hover {
+    border: 2px solid #ffa100;
+    font-size: 12px;
+    cursor: pointer;
+}

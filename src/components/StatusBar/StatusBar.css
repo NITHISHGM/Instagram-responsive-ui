@@ -1,0 +1,17 @@
+.ant-row {
+ margin: 0;
+}
+.status-avatar {
+    border: 2px solid black;
+}
+.status-text {
+    width: 50px;
+    font-size: 14px;
+    
+}
+.status-card:hover {
+    overflow-x: scroll;
+}
+.status-card{
+    overflow-x: hidden;
+}
