@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Instagram-responsive-ui/static/css/main.809b40fd.css",
+    "main.js": "/Instagram-responsive-ui/static/js/main.a66ccdae.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Instagram-responsive-ui/static/js/787.28cb0dcd.chunk.js",
+    "static/media/tanjavur.jpg": "/Instagram-responsive-ui/static/media/tanjavur.f8de0e18749527823060.jpg",
+    "static/media/robotics.jpg": "/Instagram-responsive-ui/static/media/robotics.7b7b0c4c0fc23a224723.jpg",
+    "static/media/email.png": "/Instagram-responsive-ui/static/media/email.74c01f0e5447de80f80f.png",
+    "static/media/mallaya.webp": "/Instagram-responsive-ui/static/media/mallaya.c01fd26426c7dc55e93a.webp",
+    "static/media/instagram.jpg": "/Instagram-responsive-ui/static/media/instagram.75760b1368ff63fb880c.jpg",
+    "static/media/slack.png": "/Instagram-responsive-ui/static/media/slack.66799a3d98e94218a7ed.png",
+    "index.html": "/Instagram-responsive-ui/index.html",
+    "main.809b40fd.css.map": "/Instagram-responsive-ui/static/css/main.809b40fd.css.map",
+    "main.a66ccdae.js.map": "/Instagram-responsive-ui/static/js/main.a66ccdae.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Instagram-responsive-ui/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.809b40fd.css",
+    "static/js/main.a66ccdae.js"
+  ]
+}
